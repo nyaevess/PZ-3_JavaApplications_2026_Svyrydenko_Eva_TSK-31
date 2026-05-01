@@ -9,5 +9,7 @@ ___
 
 ___
 
+***Скриншоти виконання***
+<img width="1880" height="893" alt="image" src="https://github.com/user-attachments/assets/df66ef28-1ea5-4864-a202-b7708a801c4d" />
 
 <img width="692" height="260" alt="image" src="https://github.com/user-attachments/assets/9a20ea51-51ad-4679-8e85-f6ccdb3188de" />
