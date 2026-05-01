@@ -8,3 +8,6 @@ ___
 Код виконання завдання у папці src.
 
 ___
+
+
+<img width="692" height="260" alt="image" src="https://github.com/user-attachments/assets/9a20ea51-51ad-4679-8e85-f6ccdb3188de" />
